@@ -35,7 +35,7 @@
 
 ## Constraints
 
-- **Budget:** [TIER — Starter / Professional / Premium]
+- **Budget:** [BUDGET_TIER]
 - **Timeline:** [DEADLINE or DURATION]
 - **Must-haves:** [Non-negotiable features or design elements]
 - **Must-avoid:** [Things client explicitly does not want]

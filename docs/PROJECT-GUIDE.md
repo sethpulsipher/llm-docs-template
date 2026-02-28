@@ -10,10 +10,10 @@
 |---|---|
 | Client | [CLIENT_NAME] |
 | Industry | [INDUSTRY] |
-| Website Type | [TYPE] — Service / E-commerce / Portfolio / etc. |
-| Primary Goal | [GOAL] — Generate leads / Sell products / Build credibility |
+| Website Type | [WEBSITE_TYPE] |
+| Primary Goal | [PRIMARY_GOAL] |
 | Target Audience | [AUDIENCE] |
-| Budget Tier | [Starter / Professional / Premium] |
+| Budget Tier | [BUDGET_TIER] |
 | Timeline | [TIMELINE] |
 
 Full context: `project-brief.md`
